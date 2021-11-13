@@ -9,7 +9,7 @@ You can build a financial database and web application by using SQL, Python, and
 In this project we are using **Python 3.8/ Jupyter lab**. The libraries that we use are:
 
 - pandas 
-- numoy
+- numpy
 - hvplot
 - sqlalchemy
 
